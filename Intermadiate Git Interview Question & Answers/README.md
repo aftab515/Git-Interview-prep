@@ -4,7 +4,7 @@
 
 The Git push command is used to push the content in a local repository to a remote repository. After a local repository has been modified, a push is executed to share the modifications with remote team members.
 
-<img src="" alt="Example Image" width="300" height="200">   
+<img src="./images/Git-push-command.jfif" alt="Example Image" width="300" height="200">
 
 ### 18. Difference between git fetch and git pull.
 
@@ -25,7 +25,7 @@ A Git merge conflict is an event that occurs when Git is unable to resolve the d
 
 Git is capable of automatically merging the changes only if the commits are on different lines or branches.
 
-<img src="" alt="Example Image" width="300" height="200">
+<img src="./images/pull-push.jfif" alt="Example Image" width="300" height="200">
 
 ### 21. How do you resolve conflicts in Git?
 

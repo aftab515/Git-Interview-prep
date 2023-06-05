@@ -1,5 +1,7 @@
 # Intermediate Git Interview Questions
 
+## Written by <https://github.com/aftab515>
+
 ### 17. What does the git push command do?
 
 The Git push command is used to push the content in a local repository to a remote repository. After a local repository has been modified, a push is executed to share the modifications with remote team members.

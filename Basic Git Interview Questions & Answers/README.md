@@ -1,5 +1,7 @@
 # Basic Git Interview Questions & Answers
 
+## Written by <https://github.com/aftab515>
+
 ### 1. What is Git?
 
 Git is a version control system for tracking changes in computer files and is used to help coordinate work among several people on a project while tracking progress over time. In other words, it’s a tool that facilitates source code management in software development.
